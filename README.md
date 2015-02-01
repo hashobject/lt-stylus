@@ -15,6 +15,6 @@ This plugin is heavily based on code from [LightTable/CSS](https://github.com/Li
 
 ###License
 
-Copyright © 2014 Hashobject Ltd (team@hashobject.com).
+Copyright © 2014-2015 Hashobject Ltd (team@hashobject.com).
 
 Distributed under the [Eclipse Public License](http://opensource.org/licenses/eclipse-1.0).
